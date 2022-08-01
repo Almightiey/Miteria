@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Sitting
+  - Water
+  - UI
+  - AttackPlayer
+  - Door
+  - Target
+  - Floor
+  - Player
+  - Wall
+  - Back
+  - Front
+  - Enemy
+  - PlayerDeath
+  - MushroomPomegranate
+  - OnlyPlayer
+  - OnlyEnemy
+  - Map
+  - SavePoint
+  - WallEnemy
+  - EnemyAtack
+  - DeathZone
+  - Death
+  - Bloor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background_2
+    uniqueID: 2358661551
+    locked: 0
+  - name: Background_1
+    uniqueID: 3706348109
+    locked: 0
+  - name: WaterBack
+    uniqueID: 3933346257
+    locked: 0
+  - name: DecorBack
+    uniqueID: 1789654581
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 276109679
+    locked: 0
+  - name: Player
+    uniqueID: 1869960057
+    locked: 0
+  - name: DecorFront
+    uniqueID: 984235937
+    locked: 0
+  - name: WaterFront
+    uniqueID: 716767709
+    locked: 0
+  - name: FrontGround
+    uniqueID: 2472412473
+    locked: 0
+  - name: UI
+    uniqueID: 279586909
+    locked: 0

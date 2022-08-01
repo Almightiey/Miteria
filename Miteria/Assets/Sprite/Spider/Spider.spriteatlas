@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Spider
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f0f79384e1d1e49a2b9799dc19719db6, type: 3}
+    - {fileID: 2800000, guid: fe82cdbae58904b80a22a00cc3a2f9c4, type: 3}
+    - {fileID: 2800000, guid: 312af758344e84a81b63a56396caf6cb, type: 3}
+    - {fileID: 2800000, guid: 5d8619c7e0942444d912564a57543028, type: 3}
+    - {fileID: 2800000, guid: 7c68c3d9aca6a449489e7a5f1fee8d48, type: 3}
+    - {fileID: 2800000, guid: c231d3377b84047ceae865bd5ad8b747, type: 3}
+    - {fileID: 2800000, guid: ca7413da05b8a432481b4253d53d4c49, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -9006672751429033509, guid: f0f79384e1d1e49a2b9799dc19719db6, type: 3}
+  - {fileID: 3202512302183169596, guid: f0f79384e1d1e49a2b9799dc19719db6, type: 3}
+  - {fileID: 4385094996276106062, guid: f0f79384e1d1e49a2b9799dc19719db6, type: 3}
+  - {fileID: 2214486240993623323, guid: c231d3377b84047ceae865bd5ad8b747, type: 3}
+  - {fileID: 4667086312586993109, guid: c231d3377b84047ceae865bd5ad8b747, type: 3}
+  - {fileID: -3407988012234319656, guid: c231d3377b84047ceae865bd5ad8b747, type: 3}
+  - {fileID: 4997935842046954810, guid: c231d3377b84047ceae865bd5ad8b747, type: 3}
+  - {fileID: -2282423750388861267, guid: c231d3377b84047ceae865bd5ad8b747, type: 3}
+  - {fileID: -1840526944204385742, guid: 5d8619c7e0942444d912564a57543028, type: 3}
+  - {fileID: -9155890093033301323, guid: 5d8619c7e0942444d912564a57543028, type: 3}
+  - {fileID: -5746987068174361845, guid: 5d8619c7e0942444d912564a57543028, type: 3}
+  - {fileID: -7537311848220298040, guid: 5d8619c7e0942444d912564a57543028, type: 3}
+  - {fileID: -8863854797729930860, guid: 312af758344e84a81b63a56396caf6cb, type: 3}
+  - {fileID: -5529553115410684573, guid: 312af758344e84a81b63a56396caf6cb, type: 3}
+  - {fileID: 2625979650808723669, guid: 312af758344e84a81b63a56396caf6cb, type: 3}
+  - {fileID: 2290388962046580141, guid: 7c68c3d9aca6a449489e7a5f1fee8d48, type: 3}
+  - {fileID: 3617778819514186393, guid: 7c68c3d9aca6a449489e7a5f1fee8d48, type: 3}
+  - {fileID: -3620974530193868036, guid: 7c68c3d9aca6a449489e7a5f1fee8d48, type: 3}
+  - {fileID: 4687144618665197830, guid: 7c68c3d9aca6a449489e7a5f1fee8d48, type: 3}
+  - {fileID: 3498186090964696782, guid: fe82cdbae58904b80a22a00cc3a2f9c4, type: 3}
+  - {fileID: 7295656289295585525, guid: fe82cdbae58904b80a22a00cc3a2f9c4, type: 3}
+  - {fileID: -3885753778887023528, guid: fe82cdbae58904b80a22a00cc3a2f9c4, type: 3}
+  - {fileID: 2177078761090596938, guid: fe82cdbae58904b80a22a00cc3a2f9c4, type: 3}
+  - {fileID: -7370537732348165260, guid: fe82cdbae58904b80a22a00cc3a2f9c4, type: 3}
+  - {fileID: -6548001731627422835, guid: ca7413da05b8a432481b4253d53d4c49, type: 3}
+  - {fileID: -3653858707709923864, guid: ca7413da05b8a432481b4253d53d4c49, type: 3}
+  - {fileID: 7713251123329330833, guid: ca7413da05b8a432481b4253d53d4c49, type: 3}
+  - {fileID: 344100690071455109, guid: ca7413da05b8a432481b4253d53d4c49, type: 3}
+  - {fileID: 6163712413766312105, guid: ca7413da05b8a432481b4253d53d4c49, type: 3}
+  - {fileID: 2942974976149499084, guid: ca7413da05b8a432481b4253d53d4c49, type: 3}
+  - {fileID: 6946827241161000441, guid: ca7413da05b8a432481b4253d53d4c49, type: 3}
+  - {fileID: 5720213567580511210, guid: ca7413da05b8a432481b4253d53d4c49, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u043F\u0430\u0443\u043A \u0431\u0435\u0435\u0436\u0436\u0438\u0438\u0438\u0442_2"
+  - "\u043F\u0430\u0443\u043A \u0431\u0435\u0435\u0436\u0436\u0438\u0438\u0438\u0442_1"
+  - "\u043F\u0430\u0443\u043A \u0431\u0435\u0435\u0436\u0436\u0438\u0438\u0438\u0442_0"
+  - "\u043F\u0430\u0443\u0442\u0438\u043D\u04301-sheet_2"
+  - "\u043F\u0430\u0443\u0442\u0438\u043D\u04301-sheet_3"
+  - "\u043F\u0430\u0443\u0442\u0438\u043D\u04301-sheet_0"
+  - "\u043F\u0430\u0443\u0442\u0438\u043D\u04301-sheet_1"
+  - "\u043F\u0430\u0443\u0442\u0438\u043D\u04301-sheet_4"
+  - "\u043F\u0430\u0443\u043A \u043D\u0430\u043F\u0430\u0434\u0430\u0435\u0442_1"
+  - "\u043F\u0430\u0443\u043A \u043D\u0430\u043F\u0430\u0434\u0430\u0435\u0442_0"
+  - "\u043F\u0430\u0443\u043A \u043D\u0430\u043F\u0430\u0434\u0430\u0435\u0442_3"
+  - "\u043F\u0430\u0443\u043A \u043D\u0430\u043F\u0430\u0434\u0430\u0435\u0442_2"
+  - "\u043F\u0430\u0443\u043A \u0434\u0435\u0440\u0435\u0442\u0441\u044F \u0438\u043B\u0438
+    \u043A\u0438\u0434\u0430\u0435\u0442 \u043F\u0430\u0443\u0442\u0438\u043D\u0443
+    \u0445\u0437_0"
+  - "\u043F\u0430\u0443\u043A \u0434\u0435\u0440\u0435\u0442\u0441\u044F \u0438\u043B\u0438
+    \u043A\u0438\u0434\u0430\u0435\u0442 \u043F\u0430\u0443\u0442\u0438\u043D\u0443
+    \u0445\u0437_1"
+  - "\u043F\u0430\u0443\u043A \u0434\u0435\u0440\u0435\u0442\u0441\u044F \u0438\u043B\u0438
+    \u043A\u0438\u0434\u0430\u0435\u0442 \u043F\u0430\u0443\u0442\u0438\u043D\u0443
+    \u0445\u0437_2"
+  - "\u043F\u0430\u0443\u043A \u0443\u043C\u0435\u0440\u0430\u0435\u0442_1"
+  - "\u043F\u0430\u0443\u043A \u0443\u043C\u0435\u0440\u0430\u0435\u0442_0"
+  - "\u043F\u0430\u0443\u043A \u0443\u043C\u0435\u0440\u0430\u0435\u0442_3"
+  - "\u043F\u0430\u0443\u043A \u0443\u043C\u0435\u0440\u0430\u0435\u0442_2"
+  - "\u043F\u0430\u0443\u043A \u0431\u0435\u0436\u0438\u0442 \u0438 \u0432\u0441\u0442\u0430\u043B_2"
+  - "\u043F\u0430\u0443\u043A \u0431\u0435\u0436\u0438\u0442 \u0438 \u0432\u0441\u0442\u0430\u043B_3"
+  - "\u043F\u0430\u0443\u043A \u0431\u0435\u0436\u0438\u0442 \u0438 \u0432\u0441\u0442\u0430\u043B_0"
+  - "\u043F\u0430\u0443\u043A \u0431\u0435\u0436\u0438\u0442 \u0438 \u0432\u0441\u0442\u0430\u043B_1"
+  - "\u043F\u0430\u0443\u043A \u0431\u0435\u0436\u0438\u0442 \u0438 \u0432\u0441\u0442\u0430\u043B_4"
+  - "\u044F\u0434_6"
+  - "\u044F\u0434_7"
+  - "\u044F\u0434_4"
+  - "\u044F\u0434_5"
+  - "\u044F\u0434_2"
+  - "\u044F\u0434_3"
+  - "\u044F\u0434_0"
+  - "\u044F\u0434_1"
+  m_RenderDataMap: {}
+  m_Tag: Spider
+  m_IsVariant: 0

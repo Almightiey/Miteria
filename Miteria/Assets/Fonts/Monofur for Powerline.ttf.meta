@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8a6478cadb68546088b823b92e4ea951
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - monofur for Powerline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 47fac0236d28f41f28a677ff4222d997, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
